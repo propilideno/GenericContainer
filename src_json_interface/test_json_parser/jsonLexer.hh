@@ -27,8 +27,10 @@
 #include "location.hh"
 
 #include <string>
+#include <cstring>
 #include <cctype>
 #include <sstream>
+#include <limits>
 
 namespace yy {
   class jsonLexer {

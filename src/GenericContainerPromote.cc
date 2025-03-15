@@ -25,6 +25,7 @@
 #include <iomanip>
 #include <cmath>
 #include <ctgmath>
+#include <algorithm>
 
 #ifdef __clang__
 #pragma clang diagnostic ignored "-Wc++98-compat"
